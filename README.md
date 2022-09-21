@@ -7,6 +7,11 @@ Listas contendo ao menos 5 atividades, as questões feitas estão em um PDF que 
 </p>
 
 <h3>
+Material de estudo para conclusão dos exercícios das listas:
+</h3>
+<a href="https://github.com/victorcst/Algoritmos-e-tecnicas-de-programacao/tree/main/MaterialEstudo">Material de Estudo</a>
+
+<h3>
 Listas destinadas para serem feitas no papel:
 </h3>
 <a href="https://github.com/victorcst/Algoritmos-e-tecnicas-de-programacao/tree/main/Lista02">Lista 02</a>
