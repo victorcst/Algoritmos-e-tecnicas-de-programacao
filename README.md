@@ -1,6 +1,6 @@
 <div>
 <h1>
-Atividades feitas durante a disciplina de Algoritmos e técnicas de programação
+Estudos para a disciplina de Algoritmos e técnicas de programação
 </h1>
 <p>
 Listas contendo ao menos 5 atividades, as questões feitas estão em um PDF que se localiza dentro da pasta referente, algumas listas tiveram as atividades feitas a punho no papel e posteriormente passadas para código.
