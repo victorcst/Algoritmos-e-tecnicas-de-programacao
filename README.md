@@ -24,4 +24,6 @@ Listas destinadas para serem em feitas um editor de texto/IDE:
 <a href="https://github.com/victorcst/Algoritmos-e-tecnicas-de-programacao/tree/main/Lista04">Lista 04</a> 
 </br>
 <a href="https://github.com/victorcst/Algoritmos-e-tecnicas-de-programacao/tree/main/Lista05">Lista 05</a>
+</br>
+<a href="https://github.com/victorcst/Algoritmos-e-tecnicas-de-programacao/tree/main/Lista08">Lista 08</a>
 </div>
